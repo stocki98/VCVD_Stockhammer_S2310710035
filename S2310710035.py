@@ -1,4 +1,4 @@
-__doc__ = 'sample file for a main methode'
+__doc__ = 'File to calculate braking distance and time'
 
 #import system libs
 import argparse
