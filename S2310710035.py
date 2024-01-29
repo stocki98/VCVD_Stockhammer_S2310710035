@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy.constants as syc
 
-
 #setup argparser
 parser = argparse.ArgumentParser(description='mass, velocity, friction')
 parser.add_argument('--mass', type=int, help='Mass of the vehicle in kg')
